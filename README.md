@@ -21,7 +21,7 @@
 
 * 坐标城市：上海
 
-* 简历模板：[PDF版](https://github.com/liujq1988/Interview/blob/master/%E7%AE%80%E5%8E%86/%E5%88%98%E4%BD%B3%E5%BA%86%E7%9A%84%E7%AE%80%E5%8E%86.pdf) 、 [word版]()
+* 简历模板：[PDF版](https://github.com/liujq1988/Interview/blob/master/%E7%AE%80%E5%8E%86/%E5%88%98%E4%BD%B3%E5%BA%86%E7%9A%84%E7%AE%80%E5%8E%86.pdf) 、 [word版](https://github.com/liujq1988/Interview/blob/master/%E7%AE%80%E5%8E%86/%E5%88%98%E4%BD%B3%E5%BA%86%E7%9A%84%E7%AE%80%E5%8E%86.docx)
 
 ## 工作经历
 ### 上海时溪信息技术有限公司（2014年10月 – 至今）
